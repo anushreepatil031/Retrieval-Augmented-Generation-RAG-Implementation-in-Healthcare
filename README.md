@@ -10,4 +10,7 @@ Advanced features include:
 1. Recursive text chunking, cosine similarity, and vector embeddings to optimize document retrieval
 2. Prompt templating and output parsing to produce human-readable answers
 3. A feedback loop mechanism to collect user ratings for continuous system improvement
+
+
+
 This application demonstrates how RAG can enhance clinical decision-making, streamline healthcare workflows, and support patient-centered care in a secure and scalable way.
